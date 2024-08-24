@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Taeho 👋
+I'm a student majoring in Smart ICT Convergence Engineering at Konkuk University. 
+
+I worked as a backend developer using Spring in the South Korean Air Force for two years. 
+
+I'm passionate about creating things, which is why I want to become a programmer.
 
 <!--
 **lth-1026/lth-1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
